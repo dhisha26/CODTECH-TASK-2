@@ -3,6 +3,10 @@ Name: DHISHA M Company: CODTECH IT SOLUTIONS ID: CT08DS7234 Domain: Backend Web 
 Overview of the project
 
 Project:BASIC AUTHENTICATION SYSTEM Screenshot 2024-10-02 193743 Screenshot 2024-10-02 193801
+![image](https://github.com/user-attachments/assets/05a6cb3f-be3c-49ac-afbe-75087f2d3791)
+![image](https://github.com/user-attachments/assets/59491b20-a555-4df6-9bf0-4e83cbab5567)
+
+
 
 Objective: The main objective of this project is to create a secure user authentication system that enables users to register and log in to an application. This system will ensure that user passwords are stored securely and provide a straightforward interface for users to manage their accounts.
 
